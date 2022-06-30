@@ -2,7 +2,7 @@
 
 I am highly motivated and my experience spans across many languages such as, C/C++, Python, C#, PHP, Batch/Bash(Shell scripting), Javascript and Typescript.
 
-I am currently working on [CRUDify](https://github.com/okoibraun/CRUDify), a mini CRUD helper looking to fully blow up to a framework after making it upport ORM.
+I am currently working on [CRUDify](https://github.com/okoibraun/CRUDify), a mini CRUD helper looking to fully blow up to a framework after making it support ORM.
 
 My primary focus area is Backend Development using any of the above list of languages. My Self-Paced taught approach has helped meover the years to feed my ever hungry taste for knowledge and kept me upto date new technology stacks.
 
