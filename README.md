@@ -4,7 +4,7 @@ I am highly motivated and my experience spans across many languages such as, C/C
 
 I am currently working on [CRUDify](https://github.com/okoibraun/CRUDify), a mini CRUD helper looking to fully blow up to a framework after making it support ORM.
 
-My primary focus area is Backend Development using any of the above list of languages. My Self-Paced taught approach has helped meover the years to feed my ever hungry taste for knowledge and kept me upto date new technology stacks.
+My primary focus area is Backend Development using any of the above list of languages. My Self-Paced taught approach has helped me over the years to feed my ever hungry taste for knowledge and kept me upto date with new technology stacks.
 
 You can reach me on all the below listed platform:
 
